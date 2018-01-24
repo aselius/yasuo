@@ -1,5 +1,6 @@
 # Yasuo
 
+> Edited for use with minikube & keystone VM setup
 
 Given a valid OpenStack `openrc` file that has valid keystone credentials,
 run the command:
